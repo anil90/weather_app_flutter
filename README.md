@@ -1,4 +1,4 @@
-# 💱 Currency Converter App
+# 💱 Weather App Flutter
 
 A simple and modern Flutter app to get weather data.  
 Built as part of my Flutter learning journey while transitioning from 10+ years of Magento/PHP development to cross-platform mobile apps.
@@ -7,7 +7,7 @@ Built as part of my Flutter learning journey while transitioning from 10+ years 
 
 ## ✨ Features
 - 🌍 Fetch weather data for City
-- 🔄 Real-time weather detail via [ExchangeRate API](https://openweathermap.org/)
+- 🔄 Real-time weather detail via [Weather API](https://openweathermap.org/)
 - 💡 Simple and clean UI
 - 📱 Works on Android, iOS, and Web
 - ⚡ Error handling and loading states
